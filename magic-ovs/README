@@ -1,0 +1,4 @@
+1. make
+2. insmod nmovs.ko
+3. ifconfig nm2 192.168.1.71/24 up (nm2 is virtual port 3 of netmagic)
+4. ping hostX
