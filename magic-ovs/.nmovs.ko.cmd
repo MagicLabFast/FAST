@@ -1,1 +1,0 @@
-cmd_/home/netmagic/Desktop/magic-ovs/nmovs.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.11.0-15-generic/scripts/module-common.lds --build-id  -o /home/netmagic/Desktop/magic-ovs/nmovs.ko /home/netmagic/Desktop/magic-ovs/nmovs.o /home/netmagic/Desktop/magic-ovs/nmovs.mod.o

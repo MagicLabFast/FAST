@@ -1,4 +1,0 @@
-1. Make
-2. insmod nmovs.ko
-3. ifconfig nmX XX.XX.XX.XX up (nmX is virtual port of netmagic, for example nm2 is 3 port of netmagic)
-4. ping host
