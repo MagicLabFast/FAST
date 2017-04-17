@@ -38,7 +38,7 @@ FAST开源遵循Apache2.0许可，范围包括：
 
 ## 5.项目组织
 
-[国防科技大学计算机学院NetMagic研究团队](www.netmagic.org）负责项目的整体规划，技术路线的协调；
+[国防科技大学计算机学院NetMagic研究团队](www.netmagic.org)负责项目的整体规划，技术路线的协调；
 
 [湖南新实网络科技有限公司](www.magiclab-networks.com)负责FAST软硬件开发库的维护，版本测试和发布，相关培训等。
 
